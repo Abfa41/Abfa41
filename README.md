@@ -99,11 +99,8 @@ Outside of coding, you'll probably find me playing **chess ♟️** and explorin
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abfa41&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abfa41&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Abfa41&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abfa41&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -183,13 +180,24 @@ Outside of coding, you'll probably find me playing **chess ♟️** and explorin
 </p>
 
 ---
+<!-- ==================== CLOSING ==================== -->
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,100:434343"/>
+</p>
 
-### Thanks for stopping by! 👋
+<h3 align="center">
+  Thanks for stopping by! 👋
+</h3>
 
-*"Always learning, always building, one commit at a time."*
+<p align="center">
+  <i>Learning today. Building for tomorrow.</i>
+</p>
 
-⭐ Feel free to explore my repositories and connect with me!
+<p align="center">
+  <i>One problem. One project. One contribution at a time.</i>
+</p>
 
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
 </p>
